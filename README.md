@@ -17,4 +17,4 @@ The process of simulation can be parallelized by using parallel techniques and t
 
 Methodology: Openmpi, C-Programming.
 
-In this project, twenty random numbers had been generated for Inter-arrival time and Service Time. In which random numbers are being parallelized into two parts such as ten numbers each. Then the simulation process is being done and average idle time is being founded.
+In this project, twenty random numbers had been generated for Inter-arrival time and Service Time. In which random numbers are being parallelized into two parts such as ten numbers each. Then the simulation process is being done and average idle time and waiting time is being founded.
